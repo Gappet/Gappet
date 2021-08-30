@@ -17,9 +17,10 @@
 
 ### Контактная информация:
 
-<img  alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/80px-Telegram_2019_Logo.svg.png"/>[Telegram](https://t.me/gappet " Telegram")
+<img  alt="Telegram" width="26px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/80px-Telegram_2019_Logo.svg.png"/>[ Telegram](https://t.me/gappet "Telegram")
 <br/>
-<img alt="email" align="left"  width="26px"  src="https://image.flaticon.com/icons/png/512/2089/2089181.png"/>gappet@list.ru
+
+<img alt="email" width="26px" align="left"  src="https://image.flaticon.com/icons/png/512/2089/2089181.png"/>gappet@list.ru
 
 
 
